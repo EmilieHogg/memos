@@ -1,8 +1,11 @@
-# Mon mémo GIT
+# Mon mémo GIT - commandes classiques
 
-## commandes classiques 
+## move file
 - git add .
 - git status
 - git commit -m 'removed unnecessary file'
-- git push -u origin main
+## initialise
+- git push -u origin main 
+- git branch -m main # rename possibly
+ - git branch
 
